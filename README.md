@@ -1,7 +1,6 @@
 # airgeddon-plugins
 Combined repo of plugins and an evil twin captive portal page.
 Just copy the files inside plugins folder of airgeddon directory and see the magic
-Plugins for airgeddon https://github.com/v1s1t0r1sh3r3/airgeddon
 
 # Author:     KeyofBlueS
 # Repository: https://github.com/KeyofBlueS/airgeddon-plugins
